@@ -1,0 +1,9 @@
+{
+  "name": "pen",
+  "description": "Pen editor repackaged for Meteor",
+  "homepage": "https://github.com/rabisg/meteor-pen",
+  "author": "Rabi Shanker Guha <guha.rabishankar@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/rabisg/meteor-pen.git",
+  "packages": {}
+}
